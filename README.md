@@ -53,14 +53,6 @@ A real-time webcam application that lets you zoom in and out of your camera feed
 
 ---
 
-## 📸 Example
-
-![Demo GIF](demo.gif)
-
-> _Add a screen recording or GIF of your app in action!_
-
----
-
 ## 🛠️ Dependencies
 - Python 3.8+
 - OpenCV
