@@ -21,7 +21,7 @@ A real-time webcam application that lets you zoom in and out of your camera feed
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/genius-0963/AirPointer
    cd pythonOpenCV
    ```
 2. **Create a virtual environment (optional but recommended):**
